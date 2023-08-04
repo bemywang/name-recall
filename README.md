@@ -14,7 +14,7 @@ Put your brain muscles to the test and enhance your name-memory skills.
 
 Are you up for the challenge?
 
-Happy playing! 🧠🐶
+Happy playing! 🧠
 
 ---
 Copyright © 2023 by Min Wang. All rights reserved.
