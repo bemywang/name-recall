@@ -12,7 +12,7 @@ Put your brain muscles to the test and enhance your name-memory skills.
 4. Spit out the names you remember by typing them in, **case-insensitive**.
 5. Check your results and see how well you did!
 
-Are you up for the challenge? [Test your memory now (link)](https://bemywang.github.io/name-recall/) and see how many names you can recall!
+Are you up for the challenge?
 
 Happy playing! 🧠🐶
 
