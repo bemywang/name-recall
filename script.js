@@ -1,5 +1,4 @@
 $(document).ready(function() {
-
     $(".submit-button").click(function() {
       // Retrieve the input values
       var inputs = [];
